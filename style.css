@@ -5,9 +5,15 @@
 }
 
 body{
-    display: flex;
-    justify-content: center;
-    margin-top: 50px;
+    background-image: url(https://wallpapercrafter.com/sizes/2048x1152/69608-pixel-buildings-artist-artwork-digital-art-hd-4k-deviantart.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.container{
+    margin: 50px;
 }
 
 .hidden{
